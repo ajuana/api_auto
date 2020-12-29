@@ -1,0 +1,52 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "LAPTOP-T9T0JTJ0",
+    "children" : [ {
+      "name" : "2636-MainThread",
+      "children" : [ {
+        "name" : "test_3",
+        "uid" : "493cf664e3ceb605",
+        "parentUid" : "b42a8b2fbf15b47684742cadb5ee979a",
+        "status" : "failed",
+        "time" : {
+          "start" : 1608626488554,
+          "stop" : 1608626488554,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_2",
+        "uid" : "c248c1f6541026d0",
+        "parentUid" : "b42a8b2fbf15b47684742cadb5ee979a",
+        "status" : "failed",
+        "time" : {
+          "start" : 1608626488470,
+          "stop" : 1608626488470,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_1",
+        "uid" : "a354f982b5917cac",
+        "parentUid" : "b42a8b2fbf15b47684742cadb5ee979a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1608626488468,
+          "stop" : 1608626488468,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "b42a8b2fbf15b47684742cadb5ee979a"
+    } ],
+    "uid" : "bc9214696d9d7000dbfd42cba3ca3db6"
+  } ]
+}
