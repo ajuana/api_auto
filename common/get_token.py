@@ -8,4 +8,3 @@ def get_tokens():
     print(dict)
     print(type(dict))
     return dict
-get_tokens()
